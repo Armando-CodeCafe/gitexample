@@ -11,3 +11,4 @@ om dit te installeren moet je de volgende commandos uitvoeren na het clonen:
 - Armando
 - Tije 
 - Lennart
+[Endpoints](/endpointsDoc.md)
